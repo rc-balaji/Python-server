@@ -1,3 +1,4 @@
-Flask==2.0.1
+Flask>=2.0.1
 pytesseract==0.3.10
-opencv-python-headless  # or opencv-python if you need GUI components
+opencv-python-headless  # or opencv-python
+Werkzeug==2.0.1
